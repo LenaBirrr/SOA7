@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOA7", "SOA7\SOA7.csproj", "{5DFA07CD-262B-462E-8C5D-FC648F6BAEA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOA7Test", "SOA7Test\SOA7Test.csproj", "{3D57742A-3FBB-4901-B1CE-5F7534DC58BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFA07CD-262B-462E-8C5D-FC648F6BAEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFA07CD-262B-462E-8C5D-FC648F6BAEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFA07CD-262B-462E-8C5D-FC648F6BAEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFA07CD-262B-462E-8C5D-FC648F6BAEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D57742A-3FBB-4901-B1CE-5F7534DC58BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D57742A-3FBB-4901-B1CE-5F7534DC58BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D57742A-3FBB-4901-B1CE-5F7534DC58BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D57742A-3FBB-4901-B1CE-5F7534DC58BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {850DF364-49A3-486A-8CA7-E0D3E6B06A44}
+	EndGlobalSection
+EndGlobal
